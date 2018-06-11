@@ -43,7 +43,7 @@ function generatComponent (name) {
 }
 
 const componentJsContent = `Component({
-    properties: [],
+    properties: {},
 })`
 
 const componentJsonContent = `{
